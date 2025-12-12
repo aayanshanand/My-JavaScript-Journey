@@ -67,4 +67,4 @@ console.log(Instructor);
 //   "coursename": "js in hindi",
 //   "price": "free"
 // }
-
+"everything is okay but be ready for 15"
